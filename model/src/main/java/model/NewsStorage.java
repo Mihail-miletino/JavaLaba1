@@ -7,8 +7,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * Глобальное хранилище новостей. Реализовано по паттерну Singleton:
- * экземпляр можно получить только через getInstance().
+ * Глобальное хранилище новостей. Паттерн Singleton.
  */
 public class NewsStorage {
 

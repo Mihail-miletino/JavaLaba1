@@ -2,3 +2,6 @@ view/api/WebAppSingletons.class
 view/api/ReaderAPI.class
 view/WebAppServer.class
 view/api/CreaterAPI.class
+view/dto/NewsResponse.class
+view/dto/NewsMapper.class
+view/dto/CreateNewsRequest.class

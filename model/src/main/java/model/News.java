@@ -1,5 +1,8 @@
 package model;
 
+/**
+ * Доменная сущность. Наружу (в JSON) не отдаётся — для этого есть DTO в view/dto.
+ */
 public class News {
     private int id;
     private String title;

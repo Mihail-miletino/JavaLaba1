@@ -1,10 +1,9 @@
-classpath:/Users/michail/IdeaProjects/Laba1/controller/target/controller-1.0-SNAPSHOT.jar	2103:1795465399214
-classpath:/Users/michail/IdeaProjects/Laba1/model/target/model-1.0-SNAPSHOT.jar	2973:1795465399092
+classpath:/Users/michail/IdeaProjects/Laba1/controller/target/controller-1.0-SNAPSHOT.jar	2103:1795604345063
+classpath:/Users/michail/IdeaProjects/Laba1/model/target/model-1.0-SNAPSHOT.jar	2973:1795604344962
 classpath:/Users/michail/.m2/repository/org/jboss/resteasy/resteasy-jaxrs/3.9.3.Final/resteasy-jaxrs-3.9.3.Final.jar	1062845:1795263020995
 classpath:/Users/michail/.m2/repository/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_2.1_spec/1.0.3.Final/jboss-jaxrs-api_2.1_spec-1.0.3.Final.jar	147070:1795263020969
 classpath:/Users/michail/.m2/repository/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.3_spec/1.0.1.Final/jboss-jaxb-api_2.3_spec-1.0.1.Final.jar	131532:1795263020286
 classpath:/Users/michail/.m2/repository/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2.jar	2097:1795263019423
-classpath:/Users/michail/.m2/repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar	93107:1795263019485
 classpath:/Users/michail/.m2/repository/org/jboss/spec/javax/annotation/jboss-annotations-api_1.3_spec/1.0.1.Final/jboss-annotations-api_1.3_spec-1.0.1.Final.jar	25017:1795263019626
 classpath:/Users/michail/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar	69409:1795263019576
 classpath:/Users/michail/.m2/repository/org/apache/httpcomponents/httpclient/4.5.4/httpclient-4.5.4.jar	781831:1795263021439
@@ -33,3 +32,8 @@ classpath:/Users/michail/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.
 classpath:/Users/michail/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.13.redhat-00006/jackson-mapper-asl-1.9.13.redhat-00006.jar	800174:1795263024974
 classpath:/Users/michail/.m2/repository/org/codehaus/jackson/jackson-jaxrs/1.9.13.redhat-00006/jackson-jaxrs-1.9.13.redhat-00006.jar	18552:1795263024128
 classpath:/Users/michail/.m2/repository/org/codehaus/jackson/jackson-xc/1.9.13.redhat-00006/jackson-xc-1.9.13.redhat-00006.jar	28028:1795263024603
+classpath:/Users/michail/.m2/repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar	93107:1795263019485
+classpath:/Users/michail/.m2/repository/org/hibernate/validator/hibernate-validator/6.2.5.Final/hibernate-validator-6.2.5.Final.jar	1320186:1662992429000
+classpath:/Users/michail/.m2/repository/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar	91930:1565473573000
+classpath:/Users/michail/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar	67815:1571525227000
+classpath:/Users/michail/.m2/repository/org/glassfish/javax.el/3.0.1-b12/javax.el-3.0.1-b12.jar	237335:1602538179000

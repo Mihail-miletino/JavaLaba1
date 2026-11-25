@@ -2,3 +2,6 @@
 /Users/michail/IdeaProjects/Laba1/view/src/main/java/view/api/CreaterAPI.java
 /Users/michail/IdeaProjects/Laba1/view/src/main/java/view/api/ReaderAPI.java
 /Users/michail/IdeaProjects/Laba1/view/src/main/java/view/api/WebAppSingletons.java
+/Users/michail/IdeaProjects/Laba1/view/src/main/java/view/dto/CreateNewsRequest.java
+/Users/michail/IdeaProjects/Laba1/view/src/main/java/view/dto/NewsMapper.java
+/Users/michail/IdeaProjects/Laba1/view/src/main/java/view/dto/NewsResponse.java
