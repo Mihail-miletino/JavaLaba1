@@ -1,1 +1,3 @@
-controller/NewsController.class
+controller/category/CategoryBO.class
+controller/news/NewsBO.class
+controller/FacadeController.class

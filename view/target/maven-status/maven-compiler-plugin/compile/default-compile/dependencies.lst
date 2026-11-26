@@ -1,5 +1,5 @@
-classpath:/Users/michail/IdeaProjects/Laba1/controller/target/controller-1.0-SNAPSHOT.jar	2103:1795604345063
-classpath:/Users/michail/IdeaProjects/Laba1/model/target/model-1.0-SNAPSHOT.jar	2973:1795604344962
+classpath:/Users/michail/IdeaProjects/Laba1/controller/target/controller-1.0-SNAPSHOT.jar	6486:1795676794214
+classpath:/Users/michail/IdeaProjects/Laba1/model/target/model-1.0-SNAPSHOT.jar	5057:1795676793989
 classpath:/Users/michail/.m2/repository/org/jboss/resteasy/resteasy-jaxrs/3.9.3.Final/resteasy-jaxrs-3.9.3.Final.jar	1062845:1795263020995
 classpath:/Users/michail/.m2/repository/org/jboss/spec/javax/ws/rs/jboss-jaxrs-api_2.1_spec/1.0.3.Final/jboss-jaxrs-api_2.1_spec-1.0.3.Final.jar	147070:1795263020969
 classpath:/Users/michail/.m2/repository/org/jboss/spec/javax/xml/bind/jboss-jaxb-api_2.3_spec/1.0.1.Final/jboss-jaxb-api_2.3_spec-1.0.1.Final.jar	131532:1795263020286

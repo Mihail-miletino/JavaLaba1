@@ -1,2 +1,4 @@
 model/NewsStorage.class
+model/CategoryStorage.class
+model/Category.class
 model/News.class

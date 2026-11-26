@@ -1,7 +1,10 @@
+view/dto/CreateCategoryRequest.class
+view/dto/Mapper.class
 view/api/WebAppSingletons.class
-view/api/ReaderAPI.class
+view/api/NewsAPI.class
 view/WebAppServer.class
-view/api/CreaterAPI.class
+view/dto/NewsItemDTO.class
+view/dto/CategoryDTO.class
+view/api/CategoryAPI.class
 view/dto/NewsResponse.class
-view/dto/NewsMapper.class
 view/dto/CreateNewsRequest.class
